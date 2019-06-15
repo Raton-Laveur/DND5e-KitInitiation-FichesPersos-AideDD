@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Humain</race>
+<class>Guerrier</class>
+<level>1</level>
+<background>Noble</background>
+
+<str>15</str>
+<dex>8</dex>
+<con>14</con>
+<int>10</int>
+<wis>12</wis>
+<cha>13</cha>
+
+<lvl lvl="1"><hp_brut>10</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<styleCombat1>1</styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>10</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">2,12</skillsProf>
+<skillsProf id="2">6,13</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">jeu de cartes</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,draconique</languages>
+<languages id="1"></languages>
+<languages id="2">nain</languages>
+<languages id="3"></languages>
+
+
+<gp>25</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>10</armor>
+<shield>0</shield>
+<weapon>23,6</weapon>
+<weaponQ>1,3</weaponQ>
+<tools>0,0</tools>
+
+<item>19,80,39,5,76,39,94,12,0,0,0,0</item>
+<itemQ>1,1,1,0,2,1,1,1,0,0,0,0</itemQ>
+<itemX>lettre de noblesse, bourse</itemX>
+<name></name>
+<sexe>0</sexe>
+<age>0</age>
+<height>0</height>
+<weight>0</weight>
+<alignment>1</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits>Je n'aime pas me salir les mains, et je ne veux pas finir dans des logements inappropriés. Je sais flatter les gens afin qu'ils se sentent merveilleux et importants.</traits>
+<ideals>Responsabilité. Il est du devoir des nobles de protéger le peuple, pas de l'exploiter.</ideals>
+<bonds>Ma hache à deux mains est un héritage familial. Il s'agit, de loin, de mon bien le plus précieux.</bonds>
+<flaws>J'ai du mal à résister à l'attrait de la richesse et plus particulièrement de l'or. Si je deviens assez riche, je pourrai retrouver la place qui m'est dûe. </flaws>
+
+<backstory>Vous venez d'une famille habituée à la richesse, au pouvoir et aux privilèges. Au faîte de la gloire de Padhiver, vos parents étaient le comte et la comtesse de la Colline de Corlinn, un grand domaine situé entre les collines au nord-est de la ville. Mais le Mont Hautchaud est entré en éruption il y a trente ans, a dévasté Padhiver et rayé la Colinne de Corlinn de la carte. Au lieu de grandir dans un domaine, vous avez été élevé dans une petite mais confortable demeure d'Eauprofonde. Maintenant que vous êtes adulte, vous savez que vous n'aurez en guise d'héritage qu'un titre vide de sens et pas grand-chose d'autre.
+<b><i>Votre objectif : civiliser Phandaline.</b></i> Vous étiez destiné à bien plus qu'à être le maître d'un domaine inexistant. Il serait bien difficile de reconstruire la Colinne de Corlinn, le volcan y a veillé. Cependant, au cours des trois ou quatre dernières années, d'aventureux colons ont entrepris de reconstruire une autre ruine qui se trouve près de la cité : la vieille ville de Phandaline, dévastée par des orcs il y a cinq siècles de cela. Il vous semble évident que ce qu'il manque aujourd'hui à Phandaline est une influence civilisatrice, quelqu'un qui prenne les rênes de la ville et y fasse régner la loi et l'ordre. Quelqu'un comme vous. 
+Mais vous n'êtes pas le seul à avoir eu cette idée. En effet, un chevalier appelé Sildar Hallhiver est récemment parti pour Phandaline en compagnie d'un nain nommé Gundren Cherchepierre. Ils ont prévu de rouvrir une ancienne mine et de refaire de Phandaline une ville civilisée, riche et prospère. Dans la mesure où vous partagez les mêmes objectifs, Hallhiver devrait accepter de vous assister. 
+<b><i>Alignement : loyal neutre.</b></i> Il est essentiel de rétablir la loi et l'ordre, même s'il faut le faire avec une poigne de fer. L'honneur et la tradition engagent la noblesse à protéger le peuple qu'elle dirige contre les menaces internes et externes qui remettraient en cause la stabilité. Une société organisée ne permet pas au mal et au chaos de prendre racine.</backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>

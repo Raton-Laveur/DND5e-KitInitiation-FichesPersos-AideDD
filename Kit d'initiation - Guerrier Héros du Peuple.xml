@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Humain</race>
+<class>Guerrier</class>
+<level>1</level>
+<background>Héros du peuple</background>
+
+<str>13</str>
+<dex>15</dex>
+<con>14</con>
+<int>10</int>
+<wis>12</wis>
+<cha>8</cha>
+
+<lvl lvl="1"><hp_brut>10</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<styleCombat1>0</styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>11</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">12,6</skillsProf>
+<skillsProf id="2">4,16</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">outils de charpentier, véhicules (terrestres)</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,elfique</languages>
+<languages id="1"></languages>
+<languages id="2"></languages>
+<languages id="3"></languages>
+
+
+<gp>10</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>2</armor>
+<shield>0</shield>
+<weapon>18,31,5,36</weapon>
+<weaponQ>1,1,2,1</weaponQ>
+<tools>0,32</tools>
+
+<item>57,80,81,38,5,90,76,39,17,63,74,92,8</item>
+<itemQ>1,1,1,1,1,10,10,1,1,1,1,1,1</itemQ>
+<itemX>bourse</itemX>
+<name></name>
+<sexe></sexe>
+<age></age>
+<height></height>
+<weight></weight>
+<alignment>0</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits>Quand je me fixe sur quelque chose, je fonce, peu importe ce qui sera sur ma route. J'utilise mal les mots longs lorsque j'essaye de paraître intelligent.</traits>
+<ideals>Sincérité. Il est inutile que je prétende être ce que je ne suis pas. </ideals>
+<bonds>Un jour, Arbrefoudre redeviendra une communauté prospère et une statue à mon effigie se trouvera sur la grand-place.</bonds>
+<flaws>Je suis convaincu qu'une grande destinée m'attend et je refuse de reconnaître mes faiblesses et la possibilité que j'échoue.</flaws>
+
+<backstory>Vos parents vivaient dans le prospère village d'Arbrefoudre, à l'est de la cité de Padhiver et à l'orée du bois du même nom. Mais quand le proche mont Hautchaud est entré en éruption il y a trente ans, alors que vous n'étiez encore qu'un bébé, vos parents ont fui. Votre famille est par la suite allée de village en village, en trouvant du travail comme serviteurs ou manoeuvres où ils le pouvaient dans la région. 
+Vous avez passé les dernières années à travailler comme gardien et docker dans le port animé de Padhiver. Cependant, il vous semble, à vous et à ceux qui vous entourent, que vous êtes destiné à bien plus. Il y a quelques temps, vous vous êtes dressé contre un violent capitaine de navire, et, depuis, les autres dockers vous tiennent en haute estime. Un jour, vous révélerez qui vous êtes vraiment : un héros. 
+<b><i>Votre objectif : chasser le dragon.</b></i> Vous avez l'impression que les ruines d'Arbrefoudre vous appellent. Votre famille et leurs proches avaient des vies prospères là-bas, il y a bien longtemps. Ils sont maintenant condamnés à vivre de tâches domestiques. Les ruines sont hantées par des zombis des cendres et, selon la rumeur, un dragon s'est installé dans la vieille tour. Rien qu'un héros ne puisse résoudre. Si vous arrivez à tuer le dragon ou le faire fuir, vous aurez prouvé, à vous-même et à tout le monde, que vous êtes véritablement un héros et destiné à de grandes choses. 
+<b><i>Alignement : loyal bon.</b></i> Un héros se dresse contre le mal et ne laisse pas les brutes gagner. Un héros se bat au nom de la loi et de l'ordre, afin que tout le monde puisse mener une vie prospère et heureuse. Un héros tue les monstres, sécurise les ruines et protège les innocents. Vous aspirez à être un tel héros. </backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>

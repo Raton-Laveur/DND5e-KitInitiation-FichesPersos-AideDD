@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Haut-elfe</race>
+<class>Magicien</class>
+<level>1</level>
+<background>Acolyte</background>
+
+<str>10</str>
+<dex>10</dex>
+<con>10</con>
+<int>10</int>
+<wis>10</wis>
+<cha>10</cha>
+
+<lvl lvl="1"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>0</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1"></skillsProf>
+<skillsProf id="2"></skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2"></toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0"></languages>
+<languages id="1"></languages>
+<languages id="2"></languages>
+<languages id="3"></languages>
+
+<innateSpell id="0"></innateSpell>
+<innateSpell id="1"></innateSpell>
+<innateSpell id="2"></innateSpell>
+<innateSpell id="3"></innateSpell>
+<innateSpell id="4"></innateSpell>
+<innateSpell id="5"></innateSpell>
+<innateSpell id="6"></innateSpell>
+
+<gp>15</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>0</armor>
+<shield>0</shield>
+<weapon>19</weapon>
+<weaponQ>1</weaponQ>
+<tools>0,0</tools>
+
+<item>82,41,80,23,71,61,86,8,92</item>
+<itemQ>1,1,1,1,1,10,0,1,1</itemQ>
+<itemX>petit couteau, livre de prières, traité d'histoire</itemX>
+<name></name>
+<sexe>0</sexe>
+<age></age>
+<height></height>
+<weight></weight>
+<alignment>6</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits>J'ai passé tellement de temps dans mon temple que je n'ai pas l'habitude d'interagir avec les gents de manière informelle. J'utilise des mots compliqués pour me donner des airs d'érudit.</traits>
+<ideals>Savoir. La voie menant au pouvoir et au perfectionnement de soi passe par le savoir.</ideals>
+<bonds>Le livre que je transporte avec moi contient le fruit de tout mon labeur. Je ne connais aucun coffre assez sûr pour l'y laisser.</bonds>
+<flaws>Je suis prêt à tout pour découvrir des secrets historiques qui m'aideront dans mes recherches.</flaws>
+
+<backstory>Votre vie est toute entière dédiée à Oghma, le dieu omniscient de la connaissance, et vous avez passé des années à apprendre les secrets du multivers. 
+<b><i>Votre objectif : consacrer l'autel profané</b></i>. A l'aide de visions qu'il vous a envoyées pendant vos transes, votre dieu vous a confié une nouvelle mission. Une tribu de gobelins s'est installée dans une ancienne ruine que l'on surnomme maintenant le château des Dentspointues, où ils ont profané un autel qui était sacré aux yeux d'Oghma. L'autel est maintenant dédié à l'ignoble dieu gobelin Maglubiyet. C'est un affront qu'Oghma ne peut tolérer. 
+Vous ne doutez pas qu'Oghma a prévu de grandes choses pour vous si vous parvenez à remplir cette quête. En attendant, vos visions indiquent que sœur Garaèle, une prêtresse de Tymora, la déesse de la chance, pourra vous aider si vous lui rendez visite au village de Phandaline. 
+<b><i>Alignement : Chaotique Bon.</b></i> La poursuite et l'acquisition de connaissances se fait pour le bénéfice de tous. Les royaumes et les lois ont leur utilité, dans la mesure où ils encouragent l'approfondissement et la diffusion du savoir. Les tyrans qui cherchent à le réprimer sont les pires des scélérats. Vous partagez librement votre savoir et utilisez ce que vous avez appris pour apporter votre aide quand vous le pouvez.</backstory>
+<allies><b><i>Abri du fidèle</b></i>. En tant que serviteur d'Oghma, vous êtes respecté par ceux qui partagent votre foi. Vous pouvez accomplir les cérémonies religieuses liées à votre déité. Vous et vos compagnons d'aventure pouvez recevoir des soins gratuits dans les temples, autels et autres endroits dédiés à Oghma. Ceux qui partagent votre religion peuvent aussi vous donner (mais seulement à vous) de quoi mener un train de vie modeste. Vous avez aussi des contacts au temple d'Oghma à Padhiver où vous avez un logement. Quand vous résidez à Padhiver, vous pouvez demander l'assitance des prêtres, dans la mesure où cela ne les met pas en danger.</allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>

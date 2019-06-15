@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Nain des collines</race>
+<class>Clerc</class>
+<level>1</level>
+<background>Soldat</background>
+
+<str>14</str>
+<dex>8</dex>
+<con>13</con>
+<int>10</int>
+<wis>15</wis>
+<cha>12</cha>
+
+<lvl lvl="1"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>5</pack>
+<backSpe>Officier</backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">10,14</skillsProf>
+<skillsProf id="2">2,7</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0">outils de maçon</toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">jeu de cartes, véhicules (terrestres)</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,nain</languages>
+<languages id="1"></languages>
+<languages id="2"></languages>
+<languages id="3"></languages>
+
+<knownSpell lvl="0">flamme sacrée</knownSpell>
+<knownSpell lvl="0">lumière</knownSpell>
+<knownSpell lvl="0">thaumaturgie</knownSpell>
+
+<gp>10</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>10</armor>
+<shield>1</shield>
+<weapon>28,5</weapon>
+<weaponQ>1,2</weaponQ>
+<tools>31,19</tools>
+
+<item>87,80,66,70,5,90,76,39,17,92,49,8</item>
+<itemQ>1,1,1,10,1,10,10,1,1,1,1,1</itemQ>
+<itemX>trophée (dague récupérée sur un ennemi mort), insigne de grade (sergent)</itemX>
+<name></name>
+<sexe>0</sexe>
+<age>0</age>
+<height>0</height>
+<weight>0</weight>
+<alignment>3</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits>Je suis toujours poli et respectueux. Je ne fais pas confiance à mon instinct, donc je préfère attendre de voir comment les autres agissent.</traits>
+<ideals>Respect. Les gens méritent d'être traités avec dignité et courtoisie.</ideals>
+<bonds>J'ai trois cousins (Gundren, Tharden et Nundro Cherchepierre), qui sont mes amis et des membres respectés de mon clan. </bonds>
+<flaws>Je me demande secrètement si les dieux se soucient vraiment des affaires des mortels.</flaws>
+
+<backstory>Vous avez suivi une formation de soldat sur l'île de Mintarn. Vous avez ensuite rejoint une compagnie de mercenaires servant à la fois d'armée et de milice en la ville de Padhiver. Cependant, les fréquents abus d'autorité de vos camarades auprès des gens qu'ils étaient censés protéger n'ont pas tardé à vous faire perdre vos illusions. Récemment, vous avez fini par craquer et vous avez désobéi à un ordre afin de suivre votre conscience. En guise de punition, vous avez été mis à pied. Vous conservez néanmoins votre rang et vos connexions avec les mercenaires. Vous vous consacrez depuis à votre divinité. 
+<b><i>Votre objectif : donner une leçon aux fers rouges.</b></i> Vous avez appris que Daran Edermath cherche des individus courageux et guidés par des principes afin de donner une leçon à des brutes dans la ville de Phandaline. Ces truands se font appeler les Fers Rouges et ils se pavanent à Phandaline comme le faisaient vos camarades à Padhiver. Mettre un terme à leurs exactions est un objectif noble. 
+<b><i>Alignement : neutre bon.</b></i> C'est votre conscience et non la loi ou une quelconque autorité qui vous pousse à faire ce qui est bien. Le pouvoir doit être utilisé pour le bénéfice de tous et non pour opprimer les faibles. </backstory>
+<allies></allies>
+<features>Connaissance de la pierre : quand vous faites un test d'Intelligence (Histoire) relatif à l'origine d'un travail de maçonnerie, vous considérez que vous possédez la maîtrise de la compétence Histoire et vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.</features>
+<treasure></treasure>
+
+</character>
+</builder>
